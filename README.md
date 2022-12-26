@@ -7,9 +7,9 @@
 <p align="center">
     Password Generator made with React.js 🔑
     <br />
-    <a href="https://avocadoo.vercel.app">Go to website</a>&nbsp;
+    <a href="https://midupass.netlify.app/">Go to website</a>&nbsp;
     ·
-    &nbsp;<a href="https://github.com/devenapuros/midupass">Report Bug</a>
+    &nbsp;<a href="https://github.com/devenapuros/midupass/issues">Report Bug</a>
   </p>
 <br/>
 
